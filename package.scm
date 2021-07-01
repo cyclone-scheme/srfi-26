@@ -1,6 +1,6 @@
 (package
  (name           srfi-26)
- (version        0.1)
+ (version        "0.1.0")
  (license        "MIT")
  (authors        "Sebastian Egner")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
